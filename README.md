@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm EL MOURTAZAK KAT</h1>
-
-<div style="width: 100%;display: flex;">
-<h3 align="center">I'm a passionate Software Engineering, fullStack developer from Morocco. I am passionate especially about agile development with microservices architecture with Spring Boot, Spring Cloud and Restful Web Services during the whole DevOps lifecycle.</h3><div style="width: 50%;height: 50%;"><img src="https://www.bacancytechnology.com/main-boot-5/images/hire-springboot-developer/side-1.webp" alt="love Spring"/></div></div>
+<img src="https://lightrun.com/wp-content/uploads/2021/09/Lightrun-Blogpost-The-Complete-List-of-Spring-Boot-Annotations_a.png" alt="love Spring"/>
+<div style="    display: flex !important; "><h3 style="text-align: left;display: flex !important;" >I'm a passionate Software Engineering, fullStack developer from Morocco. I am passionate especially about agile development with microservices architecture with Spring Boot, Spring Cloud and Restful Web Services during the whole DevOps lifecycle.<img style="width:10%" src="https://www.bacancytechnology.com/main-boot-5/images/hire-springboot-developer/side-1.webp" alt="love Spring"/></h3></div>
 
 
 
